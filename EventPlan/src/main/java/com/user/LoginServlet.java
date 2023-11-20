@@ -45,7 +45,7 @@ public class LoginServlet extends HttpServlet {
 				adminDis.forward(request, response);
 			}else if ("Supplier2000".equals(username)) {
 				logger.logInfo("Redirect to the Supplier Page");
-				RequestDispatcher supplierDis = request.getRequestDispatcher("SupplierView.jsp");
+				RequestDispatcher supplierDis = request.getRequestDispatcher("supplierHome.jsp");
 				supplierDis.forward(request, response);
 			} else {
 				logger.logInfo("Redirect to the User Page");
