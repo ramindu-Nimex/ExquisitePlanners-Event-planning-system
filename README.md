@@ -16,7 +16,7 @@ Integrated dynamic features for real-time collaboration and feedback.
 * Frontend: HTML5, CSS3, JavaScript, bootstrap 5
 * Backend: JAVA
 * Database: MySQL
-We also added Design patterns and logger files and optimized the OOP Concept.
+* We also added Design patterns and logger files and optimized the OOP Concept.
 
 This project pushed our boundaries and honed our skills in web development. It's not just about coding; it's about solving real-world problems. Grateful for the collaborative effort and excited about the impact this could have in the event planning industry!
 
